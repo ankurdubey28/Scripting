@@ -1,0 +1,7 @@
+[project]
+name = "scripting"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "typer>=0.26.8",
+]
